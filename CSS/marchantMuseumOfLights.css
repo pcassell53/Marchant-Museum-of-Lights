@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "Gopher";
+    src: url("Gopher-Black.otf") format("otf"),
+    url("Gopher-BlackItalic.otf") format("otf"),
+    url("Gopher-Bold.otf") format("otf");
+}
+
 body {
     font-family: 'Gopher';
     background-color: #7D8CA3;
