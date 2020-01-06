@@ -1,0 +1,104 @@
+body {
+    font-family: 'Gopher';
+    background-color: #7D8CA3;
+    color: #160F29;
+}
+
+img {
+    width: 110%;
+}
+
+#mainNavbar .navbar-brand {
+    color: #DDBEA8;
+    font-size: 2.2rem;
+    text-shadow: 2px 2px 2px #160F29,
+        4px 3px 0 #160F29;
+}
+
+#mainNavbar .nav-link {
+    color: #E8EDDF;
+    transition: 0.3s;
+    font-size: 1.3rem;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #160F29;
+}
+
+.neonDreamLogo3 {
+    letter-spacing: 3px;
+    color: #E8EDDF;
+    text-shadow: 2px 2px 2px #160F29,
+        4px 3px 0 #160F29;
+    font-weight: 700;
+}
+
+.backwardSlash {
+    color: #550C18;
+}
+
+#firstCaption {
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6));
+    background-color: #160F29;
+}
+
+#secondCaption {
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6));
+    background-color: #160F29;
+}
+
+#thirdCaption {
+    background: linear-gradient(rgba(255,255,255,0.6),rgba(255,255,255,0.6));
+    background-color: #160F29;
+}
+
+#bottomFooter {
+    text-align: center;
+    color: #DDBEA8;
+    background-color: #160F29;
+}
+
+a #instagramFooter {
+    text-decoration: none;
+    padding-left: 5px;
+    color: #DDBEA8;
+    transition: 0.2s;
+}
+
+a #facebookFooter {
+    text-decoration: none;
+    padding-left: 5px;
+    color: #DDBEA8;
+    transition: 0.2s;
+}
+
+a #twitterFooter {
+    text-decoration: none;
+    padding-left: 5px;
+    color: #DDBEA8;
+    transition: 0.2s;
+}
+
+a #youtubeFooter {
+    text-decoration: none;
+    padding-left: 5px;
+    color: #DDBEA8;
+    transition: 0.2s;
+}
+
+a #instagramFooter:hover {
+    color: #E8EDDF;
+}
+
+a #facebookFooter:hover {
+    color: #E8EDDF;
+}
+
+a #twitterFooter:hover {
+    color: #E8EDDF;
+}
+
+a #youtubeFooter:hover {
+    color: #E8EDDF;
+}
+
