@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Gopher';
-    src: url("Gopher-Black.otf") format("otf"),
-    url("Gopher-BlackItalic.otf") format("otf"),
-    url("Gopher-Bold.otf") format("otf");
+    src: url("Gopher-Black.ttf") format("ttf"),
+    url("Gopher-BlackItalic.ttf") format("ttf"),
+    url("Gopher-Bold.ttf") format("ttf");
 }
 
 body {
