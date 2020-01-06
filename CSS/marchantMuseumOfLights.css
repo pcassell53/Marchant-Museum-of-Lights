@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: 'Gopher';
+    font-family: 'Gopher', sans-serif;
     background-color: #7D8CA3;
     color: #160F29;
 }
