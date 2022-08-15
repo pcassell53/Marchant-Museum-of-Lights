@@ -61,6 +61,7 @@ body {
     font-family: 'Gopher', sans-serif;
     background-color: #7D8CA3;
     color: #160F29;
+    overflow-x: hidden;
 }
 
 img {
